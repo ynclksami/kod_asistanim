@@ -22,6 +22,18 @@ Su seviyesi 50 metreyi aşmadığı sürece baraj kapakları kapalı tutulur ve 
    - Saat değişkenini 1 artır.
    - Yeni saatin su seviyesi verisini oku.
 6. Su seviyesi kritik eşiği aşana kadar işlemleri tekrarla.
+      ## Proje Görselleştirmeleri
+
+### KRİTİK EŞİK Akış Şeması
+Aşağıdaki akış şeması, barajdaki su seviyesinin kontrol edilmesini, 50 metre kritik eşiğinin aşılması durumunda döngünün sonlandırılmasını göstermektedir.
+
+![KRİTİK EŞİK Akış Şeması](kritik_esik_akis_semasi.png)
+
+### Örnek Çalışma Çıktısı
+
+Verilen saatlik sensör verileriyle yapılan simülasyonda su seviyesinin 3. saatte 55 metreye ulaşması sonucunda döngü sonlandırılmıştır.
+
+![KRİTİK EŞİK Örnek Çalışma Çıktısı](kritik_esik_ornek_cikti.png)
 
    ## Kaynakça
 
