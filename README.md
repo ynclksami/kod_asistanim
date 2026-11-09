@@ -67,6 +67,20 @@ Verilen saatlik sensör verileriyle yapılan simülasyonda su seviyesinin 3. saa
 
 ![KRİTİK EŞİK Örnek Çalışma Çıktısı](./kritik_esik_ornek_cikti.png)
 
+## 🤖 7. Uygulama – Kod-Asistan Basit Kayıt Akışı
+
+### 🎯 Uygulamanın Amacı
+Kullanıcıdan ad ve soyadı bilgilerini ayrı ayrı almak, bu bilgileri birleştirerek kişiye özel selamlama mesajı oluşturmak.
+
+### 🔄 Akış Şeması
+![Kod-Asistan Basit Kayıt Akış Şeması](./kod_asistan_basit_kayit_akis_semasi.png)
+
+### ✅ Uygulama Sonucu
+- 👤 Kullanıcının ad ve soyadı ayrı ayrı alınır.
+- 🔗 Ad ve soyadı birleştirilir.
+- 💬 Kullanıcıya özel selamlama mesajı oluşturulur.
+- 🏁 Algoritma sonlandırılır.
+
 📚 Kaynakça
 
 - Millî Eğitim Bakanlığı. (2026). Bilişim Teknolojileri Alanı / Programlama Temelleri Ders Kitabı. Millî Eğitim Bakanlığı Yayınları.
