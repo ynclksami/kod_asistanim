@@ -14,8 +14,6 @@ Kod-Asistan'ın ilerleyen sürümlerde yeni özellikler kazanması ve kullanıc�
 
 🛣️ Gelişim Yol Haritası
 
-🚀 Gelişim Yol Haritası
-
 Sürüm| Planlanan Özellikler
 v0.1 – Başlangıç| Temel algoritmalar, akış şemaları ve Kod-Asistan projesinin ilk tasarımı.
 v0.2 – Temel Python ve Profil Modülü| Değişkenler, veri türleri, kullanıcıdan veri alma, yaş hesaplama, aritmetiksel ve mantıksal operatörler.
