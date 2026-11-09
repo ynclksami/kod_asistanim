@@ -1,4 +1,4 @@
-🚀 Kod-Asistan v0.1
+🚀 Kod-Asistan Projesi
 
 👨‍💻 Proje Yazarı: Sami YENCİLEK
 
@@ -108,7 +108,7 @@ Verilen saatlik sensör verileriyle yapılan simülasyonda su seviyesinin 3. saa
 
 ![KRİTİK EŞİK Örnek Çalışma Çıktısı](./kritik_esik_ornek_cikti.png)
 
-## 🤖 7. Uygulama – Kod-Asistan Basit Kayıt Akışı
+## 🤖 Kod-Asistan Basit Kayıt Akışı
 
 ### 🎯 Uygulamanın Amacı
 Kullanıcıdan ad ve soyadı bilgilerini ayrı ayrı almak, bu bilgileri birleştirerek kişiye özel selamlama mesajı oluşturmak.
