@@ -14,15 +14,54 @@ Kod-Asistan'ın ilerleyen sürümlerde yeni özellikler kazanması ve kullanıc�
 
 🛣️ Gelişim Yol Haritası
 
-Sürüm| Planlanan Özellikler
-v0.1 – Başlangıç| Temel algoritmalar, akış şemaları ve Kod-Asistan projesinin ilk tasarımı.
-v0.2 – Temel Python ve Profil Modülü| Değişkenler, veri türleri, kullanıcıdan veri alma, yaş hesaplama, aritmetiksel ve mantıksal operatörler.
-v0.3 – Geliştirme Aşaması| Python programlama becerilerinin geliştirilmesi ve yeni uygulamaların projeye eklenmesi.
-v1.0 – İlk Kararlı Sürüm| Koşul yapıları, döngüler, listeler, görselleştirme ve ilk resmî GitHub Release.
-v2.0 – Veri Yönetimi| Veri saklama, kullanıcı bilgilerinin düzenlenmesi ve dosya işlemleri.
-v3.0 – Büyük Final| Hata yönetimi, JSON ile kalıcı veri saklama, modüler programlama, veri güvenliği ve KVKK, profesyonel README, GitHub Release ve proje sunumu.
+🟢 v0.1 – Başlangıç
 
-Not: Yol haritasındaki özellikler geliştirme sürecinde güncellenebilir.
+- Temel algoritmalar ve akış şemaları.
+- Kod-Asistan projesinin ilk tasarımı.
+- Örnek algoritma uygulamaları.
+
+🔵 v0.2 – Temel Python ve Profil Modülü
+
+- Değişkenler ve veri türleri.
+- Kullanıcıdan veri alma ve tip dönüşümleri.
+- Yaş hesaplama ve temel matematiksel işlemler.
+- Aritmetiksel, ilişkisel ve mantıksal operatörler.
+
+🟡 v0.3 – Akıllı Menü ve Döngüsel Yapılar
+
+- Koşul ve karar yapıları ("if", "elif", "else").
+- Kullanıcı etkileşimli akıllı menü sistemi.
+- "while" ve "for" döngüleri.
+- Liste işlemleri ve döngü kontrol ifadeleri.
+- "turtle" ile grafiksel görselleştirme.
+
+🟣 v1.0 – İlk Kararlı Sürüm
+
+- Koşul yapıları, döngüler ve liste işlemlerinin bütünleştirilmesi.
+- Grafiksel görselleştirme modüllerinin tamamlanması.
+- İlk kararlı sürümün test edilmesi.
+- GitHub üzerinde ilk resmî Release yayımlanması.
+
+🟠 v2.0 – Veri Yönetimi
+
+- Veri saklama ve dosya işlemleri.
+- Kullanıcı bilgilerinin düzenlenmesi.
+- Kullanıcı tercihlerinin yönetilmesi.
+- Veri yönetimi özelliklerinin geliştirilmesi.
+
+🔴 v3.0 – Büyük Final
+
+- Hata yönetimi ve program kararlılığı.
+- JSON ile kalıcı veri saklama.
+- Modüler programlama ve fonksiyonlar.
+- Veri güvenliği ve KVKK ilkeleri.
+- Profesyonel README dokümantasyonu.
+- GitHub Release v3.0 yayımlanması.
+- Projenin dijital portfolyo üzerinden sunulması.
+
+---
+
+📚 Proje Notu: Kod-Asistan, Programlama Temelleri 9 ders kitabındaki uygulamalar esas alınarak aşamalı biçimde geliştirilmektedir. Her sürüm, ilgili uygulamalar tamamlandıkça projeye dâhil edilecektir.
 
 📂 Projenin Kapsamı
 
