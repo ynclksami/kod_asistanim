@@ -14,11 +14,15 @@ Kod-Asistan'ın ilerleyen sürümlerde yeni özellikler kazanması ve kullanıc�
 
 🛣️ Gelişim Yol Haritası
 
+🚀 Gelişim Yol Haritası
+
 Sürüm| Planlanan Özellikler
-v0.1| Temel dijital asistan ve örnek algoritma uygulamaları
-v1.0| Akıllı menü ve kullanıcı etkileşimi
-v2.0| Veri saklama ve kullanıcı tercihlerini hatırlama
-v3.0| Gelişmiş asistan özellikleri
+v0.1 – Başlangıç| Temel algoritmalar, akış şemaları ve Kod-Asistan projesinin ilk tasarımı.
+v0.2 – Temel Python ve Profil Modülü| Değişkenler, veri türleri, kullanıcıdan veri alma, yaş hesaplama, aritmetiksel ve mantıksal operatörler.
+v0.3 – Geliştirme Aşaması| Python programlama becerilerinin geliştirilmesi ve yeni uygulamaların projeye eklenmesi.
+v1.0 – İlk Kararlı Sürüm| Koşul yapıları, döngüler, listeler, görselleştirme ve ilk resmî GitHub Release.
+v2.0 – Veri Yönetimi| Veri saklama, kullanıcı bilgilerinin düzenlenmesi ve dosya işlemleri.
+v3.0 – Büyük Final| Hata yönetimi, JSON ile kalıcı veri saklama, modüler programlama, veri güvenliği ve KVKK, profesyonel README, GitHub Release ve proje sunumu.
 
 Not: Yol haritasındaki özellikler geliştirme sürecinde güncellenebilir.
 
