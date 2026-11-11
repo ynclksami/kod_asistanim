@@ -100,13 +100,13 @@ Su seviyesi 50 metreyi aşmadığı sürece baraj kapakları kapalı tutulur ve 
 
 Aşağıdaki akış şeması, barajdaki su seviyesinin kontrol edilmesini ve 50 metre kritik eşiğinin aşılması durumunda döngünün sonlandırılmasını göstermektedir.
 
-![KRİTİK EŞİK Akış Şeması](./kritik_esik_akis_semasi.png)
+![KRİTİK EŞİK Akış Şeması](./images/kritik_esik_akis_semasi.png)
 
 🖥️ Örnek Çalışma Çıktısı
 
 Verilen saatlik sensör verileriyle yapılan simülasyonda su seviyesinin 3. saatte 55 metreye ulaşması sonucunda döngü sonlandırılmıştır.
 
-![KRİTİK EŞİK Örnek Çalışma Çıktısı](./kritik_esik_ornek_cikti.png)
+![KRİTİK EŞİK Örnek Çalışma Çıktısı](./images/kritik_esik_ornek_cikti.png)
 
 ## 🤖 Kod-Asistan Basit Kayıt Akışı
 
@@ -114,7 +114,7 @@ Verilen saatlik sensör verileriyle yapılan simülasyonda su seviyesinin 3. saa
 Kullanıcıdan ad ve soyadı bilgilerini ayrı ayrı almak, bu bilgileri birleştirerek kişiye özel selamlama mesajı oluşturmak.
 
 ### 🔄 Akış Şeması
-![Kod-Asistan Basit Kayıt Akış Şeması](./kod_asistan_basit_kayit_akis_semasi.png)
+![Kod-Asistan Basit Kayıt Akış Şeması](./images/kod_asistan_basit_kayit_akis_semasi.png)
 
 ### ✅ Uygulama Sonucu
 - 👤 Kullanıcının ad ve soyadı ayrı ayrı alınır.
