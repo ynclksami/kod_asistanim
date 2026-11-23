@@ -11,7 +11,7 @@ if secim == "1":
     Kullanici_turu = input("Kullanıcı türünüzü giriniz (Yönetici/Misafir): ")
     if Kullanici_turu== "Yönetici" or Kullanici_turu=="YÖNETİCİ" or Kullanici_turu=="yonetici" or Kullanici_turu=="yönetici" :
         print("Tam yetki sağlandı. Tüm kaynak kodlar erişime açık.")
-    elif Kullanici_turu == "Misafir" or Kullanici_turu=="misafir":
+    elif Kullanici_turu == "Misafir" or Kullanici_turu=="misafir"or Kullanici_turu=="MİSAFİR":
         print("Kısıtlı yetki sağlandı. Sadece okuma modundasınız.")
     else:
         print("Tanımsız Rol! Güvenlik protokolü devreye girdi.")
