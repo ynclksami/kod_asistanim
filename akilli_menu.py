@@ -8,7 +8,7 @@ print("3 - Sistem Sürüm Bilgisi ve Çıkış")
 secim = input("\nSeçiminiz (1/2/3): ")
 if secim == "1":
     print("\n[SİBER GÜVENLİK MODÜLÜ AKTİF]")
-    Kullanici_turu = input("Kullanıcı türünüzü giriniz (Yönetici/Misafir): ")
+    Kullanici_turu = input("Kullanıcı türünüzü giriniz (Yönetici/Misafir): ").strip()
     if Kullanici_turu== "Yönetici" or Kullanici_turu=="YÖNETİCİ" or Kullanici_turu=="yonetici" or Kullanici_turu=="yönetici" :
         print("Tam yetki sağlandı. Tüm kaynak kodlar erişime açık.")
     elif Kullanici_turu == "Misafir" or Kullanici_turu=="misafir"or Kullanici_turu=="MİSAFİR":
