@@ -9,9 +9,9 @@ secim = input("\nSeçiminiz (1/2/3): ")
 if secim == "1":
     print("\n[SİBER GÜVENLİK MODÜLÜ AKTİF]")
     Kullanici_turu = input("Kullanıcı türünüzü giriniz (Yönetici/Misafir): ")
-    if Kullanici_turu== "Yönetici":
+    if Kullanici_turu== "Yönetici" or Kullanici_turu=="YÖNETİCİ" or Kullanici_turu=="yonetici" or Kullanici_turu=="yönetici" :
         print("Tam yetki sağlandı. Tüm kaynak kodlar erişime açık.")
-    elif Kullanici_turu == "Misafir":
+    elif Kullanici_turu == "Misafir" or Kullanici_turu=="misafir":
         print("Kısıtlı yetki sağlandı. Sadece okuma modundasınız.")
     else:
         print("Tanımsız Rol! Güvenlik protokolü devreye girdi.")
